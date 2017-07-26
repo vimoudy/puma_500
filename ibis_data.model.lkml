@@ -18,4 +18,4 @@ include: "*.dashboard.lookml"  # include all dashboards in this project
 #   }
 # }
 #
-explore: sample_view {}
+explore:  qani_admin_appeals{}
