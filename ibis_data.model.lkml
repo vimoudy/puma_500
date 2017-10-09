@@ -19,4 +19,4 @@ include: "*.dashboard.lookml"  # include all dashboards in this project
 # }
 #
 explore: qani_admin_appeals {}
-explore: qani_admin_appeals_v {}
+explore: qani_admin_appeals_v { hidden: yes}
